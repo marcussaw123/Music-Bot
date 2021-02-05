@@ -8,3 +8,4 @@
 ![text](https://cdn.discordapp.com/attachments/806515120967516203/807242358935781437/unknown.png)
 # Edit config.json and put your token and prefix
 # Type `node .` or `node index.js` in the console to run your bot.
+# F*ck#9699
